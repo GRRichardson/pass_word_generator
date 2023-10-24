@@ -1,17 +1,12 @@
 # pass_word_generator
 A program that randomly generates a password of a specififc criteeria.
 
-
-
-
-
-
-
-
-
-
-
-
+When opened the user opens the page
+Then they will be greeted with a red "generate password" button
+When the user clicks the "generate password" button
+Then they will be met with a series of prompts specifying the parameters of the password the user is trying to generate
+When the user has selected acceptable parameters
+Then their password will generate to the specified parameters
 
 
 
